@@ -1,0 +1,68 @@
+h1 {
+    font-size: 30px;
+    background-color: #80ccff;
+    color: white;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+.metro_detroit {
+    height: 150px;
+    margin-bottom: 200px;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+h2 {
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mission_statement {
+    text-align: center;
+}
+.vision {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-weight: bold;
+}
+.grid_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    margin-top: 100px;
+    gap: 20px;
+    align-items: center;
+}
+
+.substance_abuse {
+    font-size: 40px;
+}
+.marriage {
+    font-size: 40px;
+}
+.family {
+    font-size: 40px;
+}
+.individual {
+    font-size: 40px;
+}
+
+.input-group {
+    width: 500px;
+}
+
+.grid_container2 {
+    margin-top: 10px;
+    text-align: center;
+            
+}
+
+.sign-up-text {
+    font-size: 25px;
+}
